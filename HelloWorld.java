@@ -1,4 +1,5 @@
 public class HelloWord{
 	System.out.print("Hello");
-	Sysyem.out.print("World");
+	System.out.print("World");
+	System.out.print("Good Bye!!");
 }
